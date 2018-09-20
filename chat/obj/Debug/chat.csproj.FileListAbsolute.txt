@@ -1,0 +1,10 @@
+D:\Projects\VisualStudioP\chat\chat\bin\Debug\chat.exe.config
+D:\Projects\VisualStudioP\chat\chat\bin\Debug\chat.exe
+D:\Projects\VisualStudioP\chat\chat\bin\Debug\chat.pdb
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.Form1.resources
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.Properties.Resources.resources
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.exe
+D:\Projects\VisualStudioP\chat\chat\obj\Debug\chat.pdb
